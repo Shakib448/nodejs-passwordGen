@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "clipboard": "^2.0.8",
+    "commander": "^8.0.0"
+  }
 }
