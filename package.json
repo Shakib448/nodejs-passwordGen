@@ -12,6 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "clipboard": "^2.0.8",
+    "clipboardy": "^2.3.0",
     "commander": "^8.0.0"
   }
 }
