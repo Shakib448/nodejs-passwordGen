@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muktadir",
   "license": "ISC",
   "dependencies": {
     "clipboard": "^2.0.8",
